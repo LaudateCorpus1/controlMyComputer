@@ -1,0 +1,40 @@
+//NSTEM Quick scroll nstem.org
+delay 4
+moveClick 1259 741 1
+delay 1
+scroll 400
+end
+
+// NSTEM Demo - StudioPress, Mai Reach
+delay 1
+moveClick 1248 436
+click
+scroll 550
+moveClick 657 720
+moveClick 703 731 .5
+moveTo 712 469 2
+scroll 400
+moveClick 611 722
+moveClick 1248 436
+instaScroll 550 0
+moveClick 911 196
+delay .5
+moveClick 1196 422
+scroll 550
+end
+
+// make a star
+delay 2
+moveTo 407 380 .5
+click
+click
+dragTo 457 372 .5
+dragTo 480 328 .5
+dragTo 503 373 .5
+dragTo 552 380 .5
+dragTo 517 416 .5
+dragTo 525 466 .5
+dragTo 480 442 .5
+dragTo 435 465 .5
+dragTo 444 416 .5
+dragTo 407 380 .5
